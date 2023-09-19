@@ -15,19 +15,19 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "mrismanaziz"
+      "value": "ItsmeZypraz"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
-      "value": "0"
+      "value": "2111931868"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "6"
+      "value": "13923232"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+      "value": "4205f3db2bca9f9cf180113601106dfb"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
